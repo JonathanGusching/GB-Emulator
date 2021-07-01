@@ -1,7 +1,12 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
-//fréq=4,194,304Hz
+
+//Pour usleep:
+//#include <unistd.h>
+//clock speed=4,194,304Hz
+// period : 2.38418579*10^(-7)s =2.38418579 us
+
 /*2^16=65536
 *MEMORY:65536
 *ROM0 :0000 => 						3FFF 	FIXE PAR LA CARTOUCHE
@@ -18,51 +23,51 @@
 *FFFF = INTERRUPTS ENABLE REGISTER (IE)
 */
 
+#define CLOCK_PERIOD 2.38418579
+//usleep(...)
 /* lit 8 bits */
-uint8_t fetch(uint16_t addr)
+uint8_t read(uint16_t addr)
 {
 	//BOUCHON
 	//TO DO
 	return 0x10;
 }
 
-//Problème, hors de la boucle => utiliser extern
-uint8_t mem[65536]; //16 bits
-
-mem[0]=1;
-printf("%d",mem[0]);
-//A = accumulateur, F= flag, 8 bits chacun
-uint8_t a; //111
-
-//INACCESSIBLE PAR LE PROGRAMMEUR = flags
-uint8_t f;
-
-//idem
-uint8_t b;//000
-uint8_t c;//001
-
-//2x8 bits pour stocker quelques données, idem à BC
-uint8_t d;//101
-uint8_t e;//011
-
-//Enregistrement d'adresses et utilisation libre
-uint8_t h;//100
-uint8_t l;//101
-
-//Stack pointer = adresse basse de la pile
-uint16_t sp=0xFFFE;
-//PROGRAM COUNTER
-uint16_t pc = 0x0100;
-
-uint8_t op;
-
-
 int main()
 {
+	//Problème, hors de la boucle => utiliser extern
+	uint8_t mem[65536]; //16 bits
+
+	printf("%d",mem[0]);
+	//A = accumulateur, F= flag, 8 bits chacun
+	uint8_t a; //111
+
+	//INACCESSIBLE PAR LE PROGRAMMEUR = flags
+	uint8_t f;
+
+	//idem
+	uint8_t b;//000
+	uint8_t c;//001
+
+	//2x8 bits pour stocker quelques données, idem à BC
+	uint8_t d;//101
+	uint8_t e;//011
+
+	//Enregistrement d'adresses et utilisation libre
+	uint8_t h;//100
+	uint8_t l;//101
+
+	//Stack pointer = adresse basse de la pile
+	uint16_t sp=0xFFFE;
+	//PROGRAM COUNTER
+	uint16_t pc = 0x0100;
+
+	uint8_t op;
+
 	while(1)
 	{
 		//lecture instruction à l'adresse pc
-		op=fetch(pc);
+		op=read(pc);
 		//Boucle principale:
 		switch(op)
 		{
@@ -81,27 +86,27 @@ int main()
 			/*LD nn,n SECTION */
 			case 0x06:
 				//LD B,n
-				b=fetch(pc++);
+				b=read(pc++);
 				break;
 			case 0x0E:
 				//LD C,n
-				c=fetch(pc++);
+				c=read(pc++);
 				break;
 			case 0x16:
 				//LD D,n
-				d=fetch(pc++);
+				d=read(pc++);
 				break;
 			case 0x1E:
 				//LD E,n
-				e=fetch(pc++);
+				e=read(pc++);
 				break;
 			case 0x26:
 				//LD H,n
-				h=fetch(pc++);
+				h=read(pc++);
 				break;
 			case 0x2E:
 				//LD L,n
-				l=fetch(pc++);
+				l=read(pc++);
 				break;
 
 			/* LD r1,r2 section */
@@ -135,7 +140,7 @@ int main()
 				break;
 			case 0x7E:
 				//LD A,(HL)
-				a=l<<8|h;
+				a=mem[l<<8|h];
 				break;
 			case 0x40:
 				//LD B,B
@@ -162,7 +167,7 @@ int main()
 				break;
 			case 0x46:
 				//LD B,(HL)
-				b=l<<8|h;
+				b=mem[l<<8|h];
 				break;
 			case 0x48:
 				//LD C,B
@@ -189,7 +194,7 @@ int main()
 				break;
 			case 0x4E:
 				//LD C,(HL)
-				c=l<<8|h;
+				c=mem[l<<8|h];
 				break;
 
 			case 0x50:
@@ -217,7 +222,7 @@ int main()
 				break;
 			case 0x56:
 				//LD D,(HL)
-				d=l<<8|h;
+				d=mem[l<<8|h];
 				break;		
 
 			case 0x58:
@@ -245,7 +250,7 @@ int main()
 				break;
 			case 0x5E:
 				//LD D,(HL)
-				e=l<<8|h;
+				e=mem[l<<8|h];
 				break;
 
 
@@ -274,7 +279,7 @@ int main()
 				break;
 			case 0x66:
 				//LD H,(HL)
-				h=l<<8|h;
+				h=mem[l<<8|h];
 				break;
 
 			case 0x68:
@@ -302,15 +307,39 @@ int main()
 				break;
 			case 0x6E:
 				//LD L,(HL)
-				l=l<<8|h;
+				l=mem[l<<8|h];
 				break;
 
 			//TODO:
 			case 0x70:
 				//LD (HL),B
-				h=b;
+				mem[l<<8|h]=b;
+				break;
+			case 0x71:
+				//LD (HL),C
+				mem[l<<8|h]=c;
+				break;
+			case 0x72:
+				//LD (HL),D
+				mem[l<<8|h]=d;
+				break;
+			case 0x73:
+				//LD (HL),E
+				mem[l<<8|h]=e;
+				break;
+			case 0x74:
+				//LD (HL),H
+				mem[l<<8|h]=h;
+				break;
+			case 0x75:
+				//LD (HL),L
+				mem[l<<8|h]=l;
 				break;
 
+			case 0x36:
+				//LD (HL),n
+				mem[l<<8|h]=read(pc++);
+				break;
 
 			default:
 				break;
