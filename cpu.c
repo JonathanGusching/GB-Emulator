@@ -64,6 +64,8 @@ int main()
 
 	uint8_t op;
 
+	uint16_t temp_ptr=0x0000;
+	uint16_t nn;
 	while(1)
 	{
 		//lecture instruction à l'adresse pc
@@ -142,6 +144,71 @@ int main()
 				//LD A,(HL)
 				a=mem[l<<8|h];
 				break;
+
+			case 0x0A:
+				//LD A,(BC)
+				a=mem[c<<8|b];
+				break;
+			case 0x1A:
+				//LD A,(DE)
+				a=mem[e<<8|d];
+				break;
+			//TODO: à revoir
+			case 0xFA:
+				//LD A,(nn)
+				temp_ptr=pc++;
+				nn=read(pc++)<<8|read(temp_ptr);
+				a=mem[nn];
+				break;
+			case 0x3E:
+				//LD A, n
+				a=read(pc++);
+				break;
+
+			case 0x47:
+				//LD B,A
+				b=a;
+				break;
+			case 0x4F:
+				//LD C,A
+				c=a;
+				break;
+			case 0x57:
+				//LD D,A
+				d=a;
+				break;
+			case 0x5F:
+				//LD E,A
+				e=a;
+				break;
+			case 0x67:
+				//LD H,A
+				h=a;
+				break;
+			case 0x6F:
+				//LD L,A
+				l=a;
+				break;
+
+			case 0x02:
+				//LD (BC),A
+				mem[c<<8|b]=a;
+				break;
+			case 0x12:
+				//LD (DE),A
+				mem[e<<8|d]=a;
+				break;
+			case 0x77:
+				//LD (HL),A
+				mem[l<<8|h]=a;
+				break;
+			case 0xEA:
+				//LD (nn),A
+				temp_ptr=pc++;
+				nn=read(pc++)<<8|read(temp_ptr);
+				mem[nn]=a;
+				break;
+
 			case 0x40:
 				//LD B,B
 				break;
@@ -310,7 +377,6 @@ int main()
 				l=mem[l<<8|h];
 				break;
 
-			//TODO:
 			case 0x70:
 				//LD (HL),B
 				mem[l<<8|h]=b;
