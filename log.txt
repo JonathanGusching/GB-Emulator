@@ -1,0 +1,4833 @@
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 180, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 180, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 179, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 179, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 179, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 178, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 178, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 178, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 177, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 177, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 177, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 176, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 176, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 176, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 175, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 175, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 175, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 174, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 174, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 174, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 173, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 173, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 173, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 32 et b vaut 172, c=10 et PC= 215, CYCLES:8
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+ing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vauStart Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 180, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 180, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 179, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 179, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 179, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 178, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 178, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 178, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 177, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 177, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 177, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 176, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 176, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 176, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 175, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 175, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 175, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 174, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 174, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 174, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 173, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 173, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 173, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 172, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 172, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 172, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 171, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 171, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 171, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 170, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 170, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 170, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 169, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 169, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 169, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 168, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 168, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 168, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 167, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 167, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 167, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 166, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 166, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 166, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 165, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 165, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 165, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 164, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 164, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 164, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 163, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 163, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 163, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 162, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 162, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 162, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 161, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 161, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 161, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 160, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 160, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 160, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 159, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 159, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 159, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 158, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 158, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 158, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 157, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 157, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 157, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 156, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 156, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 156, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 155, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 155, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 155, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 154, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 154, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 154, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 153, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 153, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 153, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 152, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 152, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 152, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 151, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 151, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 151, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 150, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 150, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 150, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 149, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 149, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 149, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 148, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 148, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 148, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 147, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 147, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 147, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 146, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 146, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 146, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 145, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 145, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 145, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 144, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 144, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 144, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 143, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 143, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 143, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 142, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 142, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 142, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 141, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 141, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 141, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 140, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 140, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 140, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 139, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 139, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 139, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 138, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 138, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 138, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 137, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 137, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 137, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 136, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 136, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 136, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 135, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 135, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 135, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 134, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 134, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 134, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 133, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 133, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 133, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 132, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 132, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 132, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 131, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 131, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 131, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 130, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 130, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 130, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 129, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 129, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 129, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 128, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 128, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 128, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 127, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 127, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 127, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 126, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 126, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 126, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 125, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 125, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 125, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 124, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 124, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 124, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 123, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 123, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 123, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 122, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 122, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 122, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 121, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 121, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 121, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 120, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 120, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 120, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 119, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 119, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 119, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 118, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 118, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 118, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 117, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 117, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 117, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 116, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 116, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 116, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 115, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 115, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 115, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 114, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 114, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 114, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 113, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 113, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 113, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 112, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 112, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 112, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 111, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 111, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 111, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 110, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 110, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 110, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 109, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 109, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 109, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 108, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 108, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 108, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 107, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 107, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 107, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 106, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 106, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 106, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 105, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 105, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 105, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 104, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 104, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 104, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 103, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 103, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 103, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 102, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 102, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 102, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 101, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 101, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 101, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 100, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 100, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 100, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 99, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 99, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 99, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 98, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 98, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 98, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 97, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 97, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 97, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 96, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 96, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 96, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 95, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 95, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 95, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 94, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 94, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 94, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 93, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 93, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 93, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 92, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 92, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 92, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 91, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 91, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 91, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 90, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 90, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 90, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 89, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 89, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 89, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 88, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 88, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 88, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 87, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 87, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 87, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 86, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 86, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 86, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 85, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 85, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 85, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 84, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 84, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 84, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 83, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 83, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 83, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 82, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 82, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 82, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 81, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 81, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 81, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 80, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 80, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 80, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 79, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 79, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 79, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 78, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 78, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 78, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 77, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 77, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 77, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 76, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 76, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 76, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 75, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 75, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 75, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 74, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 74, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 74, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 73, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 73, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 73, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 72, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 72, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 72, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 71, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 71, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 71, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 70, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 70, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 70, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 69, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 69, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 69, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 68, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 68, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 68, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 67, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 67, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 67, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 66, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 66, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 66, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 65, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 65, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 65, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 64, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 64, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 64, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 63, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 63, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 63, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 62, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 62, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 62, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 61, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 61, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 61, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 60, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 60, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 60, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 59, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 59, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 59, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 58, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 58, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 58, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 57, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 57, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 57, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 56, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 56, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 56, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 55, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 55, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 55, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 54, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 54, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 54, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 53, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 53, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 53, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 52, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 52, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 52, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 51, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 51, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 51, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 50, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 50, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 50, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 49, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 49, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 49, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 48, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 48, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 48, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 47, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 47, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 47, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 46, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 46, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 46, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 45, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 45, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 45, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 44, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 44, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 44, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 43, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 43, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 43, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 42, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 42, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 42, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 41, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 41, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 41, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 40, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 40, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 40, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 39, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 39, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 39, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 38, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 38, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 38, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 37, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 37, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 37, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 36, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 36, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 36, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 35, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 35, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 35, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 34, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 34, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 34, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 33, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 33, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 33, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 32, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 32, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 32, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 31, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 31, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 31, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 30, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 30, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 30, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 29, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 29, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 29, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 28, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 28, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 28, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 27, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 27, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 27, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 26, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 26, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 26, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 25, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 25, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 25, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 24, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 24, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 24, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 23, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 23, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 23, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 22, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 22, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 22, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 21, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 21, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 21, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 20, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 20, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 20, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 19, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 19, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 19, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 18, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 18, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 18, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 17, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 17, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 17, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 16, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 16, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 16, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 15, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 15, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 15, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 14, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 14, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 14, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 20 et b vaut 11, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 11, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 10, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 10, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 10, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 9, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 9, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 180, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 180, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 179, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 179, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 179, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 178, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 178, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 178, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 177, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 177, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 177, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 176, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 176, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 176, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 175, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 175, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 175, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 174, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 174, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 174, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 173, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 173, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 173, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 172, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 172, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 172, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 171, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 171, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 171, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 170, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 170, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 170, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 169, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 169, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 169, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 168, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 168, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 168, c=10 et PC= 215, CYCLES:8
+OP: 5 et b vaut 167, c=10 et PC= 216, CYCLES:4
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 180, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 180, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 179, c=10 et PC= 215, CYCLES:8
+Start Update
+Executing PC:100
+OP: 0 et b vaut 0, c=13 et PC= 101, CYCLES:4
+Executing PC:101
+OP: c3 et b vaut 0, c=13 et PC= 150, CYCLES:16
+Executing PC:150
+OP: c3 et b vaut 0, c=13 et PC= 20c, CYCLES:16
+Executing PC:20c
+OP: af et b vaut 0, c=13 et PC= 20d, CYCLES:4
+Executing PC:20d
+OP: 21 et b vaut 0, c=13 et PC= 210, CYCLES:12
+Executing PC:210
+OP: e et b vaut 0, c=10 et PC= 212, CYCLES:8
+Executing PC:212
+OP: 6 et b vaut 0, c=10 et PC= 214, CYCLES:8
+Executing PC:214
+OP: 32 et b vaut 0, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 255, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 255, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 255, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 254, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 254, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 254, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 253, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 253, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 253, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 252, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 252, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 252, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 251, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 251, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 251, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 250, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 250, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 250, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 249, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 249, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 249, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 248, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 248, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 248, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 247, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 247, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 247, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 246, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 246, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 246, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 245, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 245, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 245, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 244, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 244, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 244, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 243, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 243, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 243, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 242, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 242, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 242, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 241, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 241, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 241, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 240, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 240, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 240, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 239, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 239, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 239, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 238, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 238, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 238, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 237, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 237, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 237, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 236, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 236, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 236, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 235, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 235, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 235, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 234, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 234, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 234, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 233, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 233, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 233, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 232, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 232, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 232, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 231, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 231, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 231, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 230, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 230, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 230, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 229, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 229, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 229, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 228, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 228, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 228, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 227, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 227, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 227, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 226, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 226, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 226, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 225, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 225, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 225, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 224, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 224, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 224, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 223, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 223, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 223, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 222, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 222, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 222, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 221, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 221, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 221, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 220, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 220, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 220, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 219, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 219, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 219, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 218, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 218, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 218, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 217, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 217, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 217, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 216, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 216, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 216, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 215, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 215, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 215, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 214, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 214, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 214, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 213, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 213, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 213, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 212, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 212, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 212, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 211, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 211, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 211, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 210, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 210, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 210, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 209, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 209, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 209, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 208, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 208, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 208, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 207, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 207, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 207, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 206, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 206, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 206, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 205, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 205, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 205, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 204, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 204, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 204, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 203, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 203, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 203, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 202, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 202, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 202, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 201, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 201, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 201, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 200, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 200, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 200, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 199, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 199, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 199, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 198, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 198, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 198, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 197, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 197, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 197, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 196, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 196, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 196, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 195, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 195, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 195, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 194, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 194, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 194, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 193, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 193, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 193, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 192, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 192, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 192, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 191, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 191, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 191, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 190, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 190, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 190, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 189, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 189, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 189, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 188, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 188, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 188, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 187, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 187, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 187, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 186, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 186, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 186, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 185, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 185, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 185, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 184, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 184, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 184, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 183, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 183, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 183, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 182, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 182, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 182, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 181, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 181, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 181, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 180, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 180, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 180, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 179, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 179, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 179, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 178, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 178, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 178, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 177, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 177, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 177, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 176, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 176, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 176, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 175, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 175, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 175, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 174, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 174, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 174, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 173, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 173, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 173, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 172, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 172, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 172, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 171, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 20 et b vaut 171, c=10 et PC= 214, CYCLES:12
+Executing PC:214
+OP: 32 et b vaut 171, c=10 et PC= 215, CYCLES:8
+Executing PC:215
+OP: 5 et b vaut 170, c=10 et PC= 216, CYCLES:4
+Executing PC:216
+OP: 32 et b vaut 164, c=10 et PC= 215, CYCLES:8
